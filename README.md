@@ -14,6 +14,13 @@
 
 ---
 
+## ⚡ **What I Do?**  
+✔ **Full-Stack Web Development** – Frontend & Backend with modern frameworks  
+✔ **Machine Learning & AI** – Face recognition, NLP, and real-time AI systems  
+✔ **Cloud & DevOps** – AWS, CI/CD pipelines, and Docker  
+✔ **Cybersecurity & Ethical Hacking** – Secure coding & penetration testing 
+
+---
 ## 🌐 **Let's Connect!**  
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnu-rajshekar/" target="_blank">
