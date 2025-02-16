@@ -30,19 +30,6 @@
 🔹 **Personalized Nutrition Advisor** (AI-based Diet Recommendation System)  
 🔹 **Air Quality Monitoring Web App** (For a social cause on pollution awareness)  
 
-### 🧑‍🔬 **Research Work**
-📄 **Video Caption Generation using Python**  
-📄 **AI in Cybersecurity: Threat Detection & Prevention**  
-📄 **Blockchain for Secure Digital Transactions**  
-
----
-
-## 📚 **Currently Learning**
-✅ **Deep Learning & NLP** – Advanced AI research  
-✅ **Blockchain & Web3** – Secure, decentralized applications  
-✅ **Cybersecurity & Ethical Hacking** – Secure software development  
-✅ **System Design & Scalability** – Designing high-performance applications  
-
 ---
 
 ## 🌐 **Connect with Me**
