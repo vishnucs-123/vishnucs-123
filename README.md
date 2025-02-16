@@ -1,20 +1,62 @@
 <h1 align="center">🚀 Hey, I'm Vishnu! 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38C2FF&center=true&width=600&lines=Full+Stack+Developer+💻;AI+and+ML+Enthusiast+🤖;Tech+Explorer+🚀;Open+Source+Contributor+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38C2FF&center=true&width=600&lines=Full+Stack+Developer+💻;AI+and+ML+Enthusiast+🤖;Tech+Explorer+🚀;Open+Source+Contributor+🔥;Computer+Science+Engineering+Student📚" />
 </p>
 
 ---
 
 ## 🏆 **About Me**  
-🔹 B.Tech in **Computer Science & Engineering**  
+🔹 **B.Tech in Computer Science & Engineering** 🎓  
 🔹 Passionate about **AI, Full-Stack Development & DevOps**  
-🔹 Love solving problems & building scalable projects  
-🔹 Open Source Contributor & Cloud Enthusiast ☁️  
+🔹 Experienced in **Web Development, Cloud Computing & Security**  
+🔹 Enthusiastic about **Tech for Social Good & Open Source**  
+🔹 Love **building scalable projects & problem-solving**  
 
 ---
 
-## 🌐 **Let's Connect!**  
+## ⚡ **What I Do?**  
+✔ **Full-Stack Web Development** – Frontend & Backend with modern frameworks  
+✔ **Machine Learning & AI** – Face recognition, NLP, and real-time AI systems  
+✔ **Cloud & DevOps** – AWS, CI/CD pipelines, and Docker  
+✔ **Cybersecurity & Ethical Hacking** – Secure coding & penetration testing  
+✔ **Open Source Contributions** – Actively contributing to the tech community  
+
+---
+
+## 📂 **Projects & Research**
+### 🚀 **Key Projects**
+🔹 **Real-Time Criminal Identification System** (AI + Face Recognition)  
+🔹 **BizRelief – Business Continuity Platform** (Inspired by Shark Tank)  
+🔹 **Digital Finance Web App** (Multi-Language Support & Financial Literacy)  
+🔹 **Personalized Nutrition Advisor** (AI-based Diet Recommendation System)  
+🔹 **Air Quality Monitoring Web App** (For a social cause on pollution awareness)  
+
+### 🧑‍🔬 **Research Work**
+📄 **Video Caption Generation using Python**  
+📄 **AI in Cybersecurity: Threat Detection & Prevention**  
+📄 **Blockchain for Secure Digital Transactions**  
+
+---
+
+## 📜 **Certifications & Achievements**
+🏅 **AWS Cloud Practitioner** – Cloud fundamentals & deployment  
+🏅 **Python for Data Science & Machine Learning** – Hands-on ML with Python  
+🏅 **Cybersecurity Fundamentals** – Ethical hacking & penetration testing  
+🏅 **Google Data Analytics** – Data-driven decision making  
+🏅 **Open Source Contributor** – Active in GitHub projects  
+
+---
+
+## 📚 **Currently Learning**
+✅ **Deep Learning & NLP** – Advanced AI research  
+✅ **Blockchain & Web3** – Secure, decentralized applications  
+✅ **Cybersecurity & Ethical Hacking** – Secure software development  
+✅ **System Design & Scalability** – Designing high-performance applications  
+
+---
+
+## 🌐 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnu-rajshekar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -34,7 +76,7 @@
 
 ## 💻 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,cpp,java,aws,sqlite,mysql,git,github,vscode,figma,photoshop,canva&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,cpp,java,aws,sqlite,mysql,git,github,vscode,figma,photoshop,canva,docker,kubernetes,linux" />
 </p>
 
 ---
@@ -51,14 +93,14 @@
 
 ---
 
-## 🚀 **Work in Progress**  
-🔹 **Real-Time Criminal Identification System** (AI & Face Recognition)  
-🔹 **BizRelief – A Business Continuity Platform**  
-🔹 **Digital Finance Web App with Multi-Language Support**  
+## 🚀 **Work in Progress**
+✅ **AI-powered Chatbot for Nutrition & Health**  
+✅ **Face Detection System for Enhanced Security**  
+✅ **Open Source Contribution to AI Projects**  
 
 ---
 
-## 🎯 **Profile Views**  
+## 🎯 **Profile Views**
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=vishnucs-123&label=Profile%20Views&color=12&icon=2&pretty=false" />
 </p>
