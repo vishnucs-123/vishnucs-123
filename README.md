@@ -18,8 +18,6 @@
 ## ⚡ **What I Do?**  
 ✔ **Full-Stack Web Development** – Frontend & Backend with modern frameworks  
 ✔ **Machine Learning & AI** – Face recognition, NLP, and real-time AI systems  
-✔ **Cloud & DevOps** – AWS, CI/CD pipelines, and Docker  
-✔ **Cybersecurity & Ethical Hacking** – Secure coding & penetration testing  
 ✔ **Open Source Contributions** – Actively contributing to the tech community  
 
 ---
@@ -36,15 +34,6 @@
 📄 **Video Caption Generation using Python**  
 📄 **AI in Cybersecurity: Threat Detection & Prevention**  
 📄 **Blockchain for Secure Digital Transactions**  
-
----
-
-## 📜 **Certifications & Achievements**
-🏅 **AWS Cloud Practitioner** – Cloud fundamentals & deployment  
-🏅 **Python for Data Science & Machine Learning** – Hands-on ML with Python  
-🏅 **Cybersecurity Fundamentals** – Ethical hacking & penetration testing  
-🏅 **Google Data Analytics** – Data-driven decision making  
-🏅 **Open Source Contributor** – Active in GitHub projects  
 
 ---
 
