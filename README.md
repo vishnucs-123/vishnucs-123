@@ -24,7 +24,7 @@
 
 ## 🌐 **Let's Connect!**  
 <p align="center">
-  <a href="https://cse-vishnu-dev.vercel.app/" target="_blank">
+  <a href="https://developervishnu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/vishnu-rajshekar/" target="_blank">
