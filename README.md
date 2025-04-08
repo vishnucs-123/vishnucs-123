@@ -33,7 +33,7 @@
   <a href="https://instagram.com/__thenameisvishnu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:vishnu.rajshekar8@gmail.com" target="_blank">
+  <a href="mailto:officialvishnu123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -42,7 +42,7 @@
 
 ## 💻 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,sqlite,mysql,git,github,vscode,figma,canva&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,git,github,vscode,figma,canva&perline=6" />
 </p>
 
 ---
