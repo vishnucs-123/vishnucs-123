@@ -1,24 +1,21 @@
-<h1 align="center">🚀 Hey, I'm Vishnu! 👨‍💻</h1>
+<h1 align="center"> Hey, I'm Vishnu! 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38C2FF&center=true&width=600&lines=Full+Stack+Developer+💻;AI+and+ML+Enthusiast+🤖;Tech+Explorer+🚀;Open+Source+Contributor+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38C2FF&center=true&width=600&lines=Full+Stack+Developer+💻;AI+and+ML+Enthusiast+🤖;" />
 </p>
 
 ---
 
 ## 🏆 **About Me**  
 🔹 B.Tech in **Computer Science & Engineering**  
-🔹 Passionate about **AI, Full-Stack Development & DevOps**  
+🔹 Passionate about **AI, Full-Stack Development**  
 🔹 Love solving problems & building scalable projects  
-🔹 Open Source Contributor & Cloud Enthusiast ☁️  
 
 ---
 
 ## ⚡ **What I Do?**  
 ✔ **Full-Stack Web Development** – Frontend & Backend with modern frameworks  
 ✔ **Machine Learning & AI** – Face recognition, NLP, and real-time AI systems  
-✔ **Cloud & DevOps** – AWS, CI/CD pipelines, and Docker  
-✔ **Cybersecurity & Ethical Hacking** – Secure coding & penetration testing  
 
 ---
 
@@ -45,7 +42,7 @@
 
 ## 💻 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,cpp,java,aws,sqlite,mysql,git,github,vscode,figma,photoshop,canva&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,sqlite,mysql,git,github,vscode,figma,canva&perline=6" />
 </p>
 
 ---
@@ -59,13 +56,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnucs-123&layout=compact&theme=tokyonight&hide_border=false" width="48%">
 </p>
-
----
-
-## 🚀 **Work in Progress**  
-🔹 **Real-Time Criminal Identification System** (AI & Face Recognition)  
-🔹 **BizRelief – A Business Continuity Platform**  
-🔹 **Digital Finance Web App with Multi-Language Support**  
 
 ---
 
