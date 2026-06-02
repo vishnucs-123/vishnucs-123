@@ -1,50 +1,81 @@
-# Vishnu Lambu
+<div align="center">
 
-Computer Science Graduate • Core Java • Data Analysis • Frontend Developer
+# 👋 Hi, I'm Vishnu Lambu
+
+### Computer Science Graduate • Core Java • Data Analysis • Frontend Developer
+
+<p>
+Passionate about building web applications, solving problems through software,
+and transforming data into meaningful insights.
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vishnucs-123&label=Profile%20Views&color=6f42c1&style=flat" />
+
+</div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-```typescript
-const vishnu = {
-  name: "Vishnu Lambu",
-  location: "Bidar, Karnataka, India",
-  degree: "B.E. Computer Science & Engineering",
-  skills: [
-    "Core Java",
-    "Data Analysis",
-    "SQL",
-    "JavaScript",
-    "React",
-    "Next.js",
-    "TypeScript"
-  ],
-  projects: [
-    "BookDine",
-    "AI Resume Copilot",
-    "Criminal Face ID System"
-  ],
-  status: "Open to Full-Time Opportunities"
-};
+```java
+public class Vishnu {
+
+    String degree = "B.E. Computer Science & Engineering";
+    String location = "Bidar, Karnataka, India";
+
+    String[] skills = {
+        "Core Java",
+        "SQL",
+        "Data Analysis",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "TypeScript"
+    };
+
+    String[] projects = {
+        "BookDine",
+        "AI Resume Copilot",
+        "Criminal Face ID System"
+    };
+
+    String status = "Open to Full-Time Opportunities";
+}
 ```
 
-Computer Science graduate with skills in Core Java, Data Analysis, Frontend Development, SQL, JavaScript, React, and Next.js.
+🎓 Computer Science graduate with a strong interest in software development and data analysis.
 
-Interested in developing web applications, working with data, and solving real-world problems through software development.
+💻 Experienced in building responsive web applications using React, Next.js, JavaScript, and TypeScript.
 
----
+📊 Interested in Data Analysis, SQL, reporting, and extracting actionable insights from data.
 
-## Connect With Me
-
-* Portfolio: https://developervishnu.vercel.app
-* LinkedIn: https://www.linkedin.com/in/vishnu-lambu
-* Email: [vishnulambu4@gmail.com](mailto:vishnulambu4@gmail.com)
-* GitHub: https://github.com/vishnucs-123
+🌱 Continuously learning new technologies and improving problem-solving skills.
 
 ---
 
-## Technical Skills
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://developervishnu.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishnu-lambu">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vishnulambu4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Technical Skills
 
 ### Core Java
 
@@ -60,7 +91,9 @@ Interested in developing web applications, working with data, and solving real-w
 * HTML5
 * CSS3
 * JavaScript (ES6+)
+* TypeScript
 * React.js
+* Next.js
 * Tailwind CSS
 
 ### Backend & Database
@@ -74,123 +107,90 @@ Interested in developing web applications, working with data, and solving real-w
 ### Data Analysis
 
 * SQL
-* Excel
+* Microsoft Excel
 * Data Cleaning
 * Data Visualization
 * Reporting
 * Basic Statistics
 
-### Tools
+---
 
-* Git
-* GitHub
-* VS Code
-* Vercel
-* Figma
-* Postman
+## 🛠️ Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,postgresql,git,github,vscode,tailwind,figma" />
+
+</p>
 
 ---
 
-## Projects
+## 📌 Featured Projects
 
-### BookDine
-
-Restaurant Booking Web Application
-
-Features:
-
-* Table booking system
-* Reservation scheduling
-* Admin dashboard
-* Online payments
-* Responsive design
-
-Technologies:
-
-* Next.js
-* Supabase
-* PostgreSQL
-* Razorpay
-
-Live:
-https://bookdining.vercel.app
+| Project                        | Description                                                                               | Tech Stack                              |
+| ------------------------------ | ----------------------------------------------------------------------------------------- | --------------------------------------- |
+| **🍽️ BookDine**               | Restaurant booking web application with scheduling, table management, and online payments | Next.js, Supabase, PostgreSQL, Razorpay |
+| **📄 AI Resume Copilot**       | Resume builder with ATS analysis and resume optimization features                         | Next.js, PostgreSQL, Prisma             |
+| **🎭 Criminal Face ID System** | Face recognition and detection system using computer vision techniques                    | Python, OpenCV                          |
 
 ---
 
-### AI Resume Copilot
+## 🎓 Education
 
-Resume Builder and Resume Analysis Application
-
-Features:
-
-* Resume creation
-* ATS score analysis
-* Resume optimization
-* PDF export
-* Job-focused suggestions
-
-Technologies:
-
-* Next.js
-* PostgreSQL
-* Prisma
-* Groq API
-* Gemini API
-
-Live:
-https://resumecopilot.vercel.app
-
----
-
-### Criminal Face ID System
-
-Computer Vision Project
-
-Features:
-
-* Face detection
-* Face recognition
-* Image preprocessing
-* Real-time matching
-
-Technologies:
-
-* Python
-* OpenCV
-* Computer Vision
-
----
-
-## Education
-
-Bachelor of Engineering (Computer Science & Engineering)
+**Bachelor of Engineering (Computer Science & Engineering)**
 
 Guru Nanak Dev Engineering College, Bidar
 
-2021 – 2025
+**2021 – 2025**
 
 ---
 
-## Certifications
+## 🏆 Certifications
 
-* Java Full Stack Development – Five Seven IT Solutions
-* Python Programming – Udemy
-* Generative AI – Udemy
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnucs-123\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnucs-123\&layout=compact)
+* Core Java
+* Python Programming — Udemy
+* Generative AI — Udemy [Basics]
 
 ---
 
-## Career Objective
+## 📈 GitHub Statistics
 
-Seeking an opportunity as a Software Developer, Java Developer, Frontend Developer, or Data Analyst where I can apply my technical skills, contribute to meaningful projects, and continue learning as a professional.
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishnucs-123&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnucs-123&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-"Continuous learning through projects and problem solving."
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnucs-123&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a:
+
+* Software Developer
+* Java Developer
+* Frontend Developer
+* Web Developer
+* Data Analyst
+
+where I can contribute, learn, and grow while building impactful software solutions.
+
+---
+
+<div align="center">
+
+### 💡 "Continuous learning through projects and problem solving."
+
+</div>
